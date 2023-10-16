@@ -1,0 +1,42 @@
+footer {
+    background-image: url("https://learn-html-css.my.canva.site/images/1d6a8203bcbf20ab2dd8de88f7d727c5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 750px;
+    padding: 120px 340px 120px 300px;
+    color: #fff
+}
+
+.footer__title {
+    width: 500px;
+    margin-bottom: 150px;
+}
+
+.footer__title h1 {
+    margin-bottom: 50px;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    font-size: 55px;
+    line-height: 65px;
+}
+
+.footer__contact-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.footer__contact-item h4 {
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 40px;
+}
+
+.footer__contact-item p {
+    font-size: 18px;
+    font-weight: 300;
+    max-width: 300px;
+}

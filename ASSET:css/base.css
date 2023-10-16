@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Merriweather', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    padding: 15px 30px;
+    color: #fff;
+    background-color: #DC9D4C;
+    border: none;
+    font-size: 22px;
+    font-weight: 500;
+    cursor: pointer;
+}
+button {
+    outline: none;
+}
